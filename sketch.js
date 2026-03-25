@@ -12,6 +12,8 @@ function draw() {
   textSize(24); 
   fill('green'); 
   text(poetry[index], width/3, height/2); 
+
+  ellipse(100, 100, 200, 200); 
   
 }
 

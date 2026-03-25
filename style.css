@@ -8,5 +8,6 @@ canvas {
 }
 
 body {
-  background-color: darkgreen
+  background-color: darkgreen; 
+  font-family: 'Courier New', Courier, monospace;
 }
